@@ -1,0 +1,26 @@
+using System;
+
+namespace Digit_of_an_Integer
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number;
+            Console.WriteLine("Write the number ");
+            number = Convert.ToInt32(Console.ReadLine());
+            int first = number / 10000;
+            int second = number / 1000 % 10;
+            int third = number / 100 % 10;
+            int fourth = number / 10 % 10;
+            int fifth = number % 10;
+
+            Console.WriteLine("{0}      {1}     {2}     {3}     {4}", first, second, third, fourth, fifth);
+
+
+
+        }
+    }
+}
+// This program basically displays 5 integers from one typed integer.
+// For example, if 10293 is typed, then as a result, 1    0   2   9   3 will be displayed.
