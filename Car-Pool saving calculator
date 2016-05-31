@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Car_pool_saving_calculator
+{
+    class Program
+    {
+        public static void Main()
+        {
+            int total_miles_driven_per_day;
+            Console.Write("Total miles driven per day ");
+            total_miles_driven_per_day = Convert.ToInt32(Console.ReadLine());
+            int cost_per_gallon_of_gasoline; //in cents
+            Console.Write("Cost per gallon of gasoline ");
+            cost_per_gallon_of_gasoline = Convert.ToInt32(Console.ReadLine());
+            int average_miles_per_gallon;
+            Console.Write("Average miles per gallon ");
+            average_miles_per_gallon = Convert.ToInt32(Console.ReadLine());
+            int parking_fees_per_day; //in cents
+            Console.Write("Parking fees per day ");
+            parking_fees_per_day = Convert.ToInt32(Console.ReadLine());
+            int tolls_per_day; //in cents
+            Console.Write("Tolls per day ");
+            tolls_per_day = Convert.ToInt32(Console.ReadLine());
+
+            int daily_driving_cost = (total_miles_driven_per_day / (cost_per_gallon_of_gasoline * average_miles_per_gallon)) + tolls_per_day + parking_fees_per_day;
+            Console.WriteLine("Your daily driving cost is {0} ", daily_driving_cost);
+        }
+    }
+}
