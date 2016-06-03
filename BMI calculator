@@ -10,7 +10,7 @@ namespace BMI_calculator
             int heightInInches;
             Console.Write("HeightinMeter ");
             heightInInches = Convert.ToInt32(Console.ReadLine());
-            double bmi = (weightInPounds) / (heightInInches * heightInInches);
+            double bmi = (weightInPounds) / (heightInInches * heightInInches); // double required since the result of the calculation is not integer.
 
             if (bmi < 18.5)
                 Console.WriteLine("Underweight");
@@ -18,7 +18,7 @@ namespace BMI_calculator
                 Console.WriteLine("Normal");
             if (25 < bmi & bmi < 29.9)
                 Console.WriteLine("Overweight");
-            if (bmi == 30 | bmi > 30)
+            if (bmi == 30 | bmi > 30) // bmi = 30 "or" greater than 30
                 Console.WriteLine("Obese");
 
 
