@@ -1,0 +1,6 @@
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\bin\Debug\Tabular_Output.exe.config
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\bin\Debug\Tabular_Output.exe
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\bin\Debug\Tabular_Output.pdb
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\obj\Debug\Tabular_Output.csprojResolveAssemblyReference.cache
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\obj\Debug\Tabular_Output.exe
+c:\users\jepson\documents\visual studio 2015\Projects\Tabular_Output\Tabular_Output\obj\Debug\Tabular_Output.pdb
