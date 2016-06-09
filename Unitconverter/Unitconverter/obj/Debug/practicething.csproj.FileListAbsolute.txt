@@ -1,0 +1,6 @@
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\bin\Debug\practicething.exe.config
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\bin\Debug\practicething.exe
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\bin\Debug\practicething.pdb
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\obj\Debug\practicething.csprojResolveAssemblyReference.cache
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\obj\Debug\practicething.exe
+c:\users\jepson\documents\visual studio 2015\Projects\practicething\practicething\obj\Debug\practicething.pdb
