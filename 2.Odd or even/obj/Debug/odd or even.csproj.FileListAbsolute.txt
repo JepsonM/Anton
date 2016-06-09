@@ -1,0 +1,6 @@
+C:\temp\odd or even\bin\Debug\odd or even.exe.config
+C:\temp\odd or even\bin\Debug\odd or even.exe
+C:\temp\odd or even\bin\Debug\odd or even.pdb
+C:\temp\odd or even\obj\Debug\odd or even.csprojResolveAssemblyReference.cache
+C:\temp\odd or even\obj\Debug\odd or even.exe
+C:\temp\odd or even\obj\Debug\odd or even.pdb
