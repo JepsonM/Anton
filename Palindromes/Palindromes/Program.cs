@@ -23,7 +23,7 @@ namespace Palindromes
             {
                 Console.WriteLine("Error occurred. Please type the number again");
                 number = Convert.ToInt32(Console.ReadLine());
-                while (number > 9999 && number < 100000)
+                while (number > 9999 && number < 100000)  //Copy this loop and paste outside the most outer while loop
                 {
                     if ((first == fifth) && (second == fourth))
                     {
