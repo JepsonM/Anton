@@ -1,0 +1,6 @@
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\bin\Debug\New_Diamond.exe.config
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\bin\Debug\New_Diamond.exe
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\bin\Debug\New_Diamond.pdb
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\obj\Debug\New_Diamond.exe
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\obj\Debug\New_Diamond.pdb
+c:\users\jepson\documents\visual studio 2015\Projects\New_Diamond\New_Diamond\obj\Debug\New_Diamond.csprojResolveAssemblyReference.cache
