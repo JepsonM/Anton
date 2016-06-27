@@ -1,0 +1,5 @@
+c:\users\jepson\documents\visual studio 2015\Projects\Diamond\Diamond\bin\Debug\Diamond.exe.config
+c:\users\jepson\documents\visual studio 2015\Projects\Diamond\Diamond\bin\Debug\Diamond.exe
+c:\users\jepson\documents\visual studio 2015\Projects\Diamond\Diamond\bin\Debug\Diamond.pdb
+c:\users\jepson\documents\visual studio 2015\Projects\Diamond\Diamond\obj\Debug\Diamond.exe
+c:\users\jepson\documents\visual studio 2015\Projects\Diamond\Diamond\obj\Debug\Diamond.pdb
