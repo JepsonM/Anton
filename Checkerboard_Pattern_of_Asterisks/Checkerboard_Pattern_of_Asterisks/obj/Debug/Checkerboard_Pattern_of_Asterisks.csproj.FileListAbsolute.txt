@@ -1,0 +1,6 @@
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\bin\Debug\Checkerboard_Pattern_of_Asterisks.exe.config
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\bin\Debug\Checkerboard_Pattern_of_Asterisks.exe
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\bin\Debug\Checkerboard_Pattern_of_Asterisks.pdb
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\obj\Debug\Checkerboard_Pattern_of_Asterisks.csprojResolveAssemblyReference.cache
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\obj\Debug\Checkerboard_Pattern_of_Asterisks.exe
+C:\Users\Jepson\Documents\Visual Studio 2015\Projects\Checkerboard_Pattern_of_Asterisks\Checkerboard_Pattern_of_Asterisks\obj\Debug\Checkerboard_Pattern_of_Asterisks.pdb
