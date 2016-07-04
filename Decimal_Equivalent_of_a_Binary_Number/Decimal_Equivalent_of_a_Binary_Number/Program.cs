@@ -26,7 +26,7 @@ namespace Decimal_Equivalent_of_a_Binary_Number
                 binary = Convert.ToInt32(number.Substring(index - 1, 1));
                 dec += (binary * multiplier);
                 index--;
-                binary *= 2;
+                multiplier *= 2;
             }
 
             Console.WriteLine("Converted number is {0} from {1:N}", number, dec);
